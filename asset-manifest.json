@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-facebook-card/static/css/main.fb6ee3fa.chunk.css",
+    "main.js": "/react-facebook-card/static/js/main.d656fe46.chunk.js",
+    "main.js.map": "/react-facebook-card/static/js/main.d656fe46.chunk.js.map",
+    "runtime-main.js": "/react-facebook-card/static/js/runtime-main.59262e28.js",
+    "runtime-main.js.map": "/react-facebook-card/static/js/runtime-main.59262e28.js.map",
+    "static/js/2.8f228782.chunk.js": "/react-facebook-card/static/js/2.8f228782.chunk.js",
+    "static/js/2.8f228782.chunk.js.map": "/react-facebook-card/static/js/2.8f228782.chunk.js.map",
+    "index.html": "/react-facebook-card/index.html",
+    "static/css/main.fb6ee3fa.chunk.css.map": "/react-facebook-card/static/css/main.fb6ee3fa.chunk.css.map",
+    "static/js/2.8f228782.chunk.js.LICENSE.txt": "/react-facebook-card/static/js/2.8f228782.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59262e28.js",
+    "static/js/2.8f228782.chunk.js",
+    "static/css/main.fb6ee3fa.chunk.css",
+    "static/js/main.d656fe46.chunk.js"
+  ]
+}
